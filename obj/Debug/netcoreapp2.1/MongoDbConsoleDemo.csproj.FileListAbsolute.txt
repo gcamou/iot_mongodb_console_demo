@@ -1,0 +1,11 @@
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/bin/Debug/netcoreapp2.1/MongoDbConsoleDemo.deps.json
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/bin/Debug/netcoreapp2.1/MongoDbConsoleDemo.runtimeconfig.json
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/bin/Debug/netcoreapp2.1/MongoDbConsoleDemo.runtimeconfig.dev.json
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/bin/Debug/netcoreapp2.1/MongoDbConsoleDemo.dll
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/bin/Debug/netcoreapp2.1/MongoDbConsoleDemo.pdb
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/obj/Debug/netcoreapp2.1/MongoDbConsoleDemo.csprojAssemblyReference.cache
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/obj/Debug/netcoreapp2.1/MongoDbConsoleDemo.csproj.CoreCompileInputs.cache
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/obj/Debug/netcoreapp2.1/MongoDbConsoleDemo.AssemblyInfoInputs.cache
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/obj/Debug/netcoreapp2.1/MongoDbConsoleDemo.AssemblyInfo.cs
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/obj/Debug/netcoreapp2.1/MongoDbConsoleDemo.dll
+/Volumes/gCamouInc/Dev/Projects/MongoDbConsoleDemo/obj/Debug/netcoreapp2.1/MongoDbConsoleDemo.pdb
